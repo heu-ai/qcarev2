@@ -126,11 +126,15 @@
 .about-facts-section h2 { margin-left: -25px;}
 .what-profile  {padding: 0px 10px;}
 .works-area {min-height: 270px;}
-.handle-area{width:100%; padding:30px;}
+.handle-area{width:100%; padding:20px; text-align:center;}
+.handle-area h2 {text-align: center;}
+.handle-area p {text-align: center;}
+.handle-btn a {float:none;}
+.works-area { box-shadow:none;}
 .handle-img-area { width: 80%;}
 .img-margin {margin:40px;}
 .img-margin-01 {margin: 40px 40px 0px 40px;}
-.about-facts { background: #5eb3e5; padding: 30px 30px 0px 0px; width: 100%;float: left;}
+.about-facts { background: #5eb3e5; padding:20px; width: 100%;float: left;}
 .about-facts-section h2 {margin-left:8px;}
 .box-top-area h3 {text-align: right; margin-top: -65px;}
 .img-circle img { margin-top: 40px;}
@@ -156,10 +160,14 @@ line-height: 36px;}
     line-height: 36px;
     font-size: 15px;
 }
-
-
-
-
+.total-free-section h2 {
+    font-size: 48px;
+padding:30px 0px;}
+.dr-img{display:block;}
+.qcare-banner {padding: 3rem 0rem 2rem 0rem;
+    width: 100%;
+background: #55a9db;}
+.box-top-area { box-shadow:none;}
 }
 
 @media (max-width: 540px) {
